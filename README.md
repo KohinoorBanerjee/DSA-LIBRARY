@@ -1,2 +1,2 @@
 # DSA-LIBRARY
-A Python-based command-line library implementing key data structures from scratch: stack, queue, linked list, binary search tree, and hash table. Built for interview preparation and DSA practice.
+A simple command-line application to simulate browser history navigation using a doubly linked list in Python.
